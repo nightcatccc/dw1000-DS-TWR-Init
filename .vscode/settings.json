@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "stm32f10x.h": "c",
+        "deca_device_api.h": "c",
+        "pinout.h": "c",
+        "port.h": "c",
+        "string.h": "c",
+        "dw1000.h": "c",
+        "delay.h": "c",
+        "uart.h": "c"
+    }
+}
